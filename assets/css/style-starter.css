@@ -10516,6 +10516,24 @@ h4.sub-title {
   /*-- //Reset-Code --*/
   /*--responsive--*/
   /*--//responsive--*/ }
+  .resume{
+    text-align: center;
+    padding: 10px;
+    transition: 0.3s ease-out;
+    border-radius: 4px;
+    /* border: 1px solid #828282; */
+    background: rgba(255, 255, 255, 0.2);
+  }
+  .resume:hover {
+    background: #000;
+    transition: 0.3s ease-out;
+    opacity: 0.8; 
+  }
+    .resume a{
+      text-decoration: none;
+      color: aliceblue;
+      font-weight: bold;
+  }
   .w3l-feature-3 span.number img {
     vertical-align: -webkit-baseline-middle; }
   .w3l-feature-3 .top-bottom {
@@ -10545,7 +10563,7 @@ h4.sub-title {
     transition: 0.3s ease-out;
     border-radius: 4px;
     /* border: 1px solid #828282; */
-    background: rgba(255, 255, 255, 0.1); }
+    background: rgba(255, 255, 255, 0.2); }
   .w3l-feature-3 .three-grids-columns:hover {
     background: #000;
     transition: 0.3s ease-out;
