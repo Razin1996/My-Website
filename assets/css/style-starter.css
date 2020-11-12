@@ -10527,7 +10527,7 @@ h4.sub-title {
   .resume:hover {
     background: #000;
     transition: 0.3s ease-out;
-    opacity: 0.8; 
+    opacity: 0.8;
   }
     .resume a{
       text-decoration: none;
@@ -11046,6 +11046,7 @@ body:after {
 .services-12 .experience-top p {
   line-height: 24px;
   font-size: 16px;
+  text-align: justify;
   color: var(--text-color);
   font-weight: normal;
   font-style: normal;
